@@ -1,0 +1,6 @@
+D:\prog\tayak2\tayak2\bin\Debug\tayak2.exe.config
+D:\prog\tayak2\tayak2\bin\Debug\tayak2.exe
+D:\prog\tayak2\tayak2\bin\Debug\tayak2.pdb
+D:\prog\tayak2\tayak2\obj\Debug\tayak2.csprojResolveAssemblyReference.cache
+D:\prog\tayak2\tayak2\obj\Debug\tayak2.exe
+D:\prog\tayak2\tayak2\obj\Debug\tayak2.pdb
